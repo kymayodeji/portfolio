@@ -13,15 +13,18 @@ I usually program in Python and SQL for my projects using Jupyter Notebooks. May
 
 ## Categories
 - ### Data Cleaning
-  * Open Payments Data
+  * [Open Payments Data](https://github.com/kymayodeji/DEProjects)
+    - used General Payment data from the Centers for Medicare & Medicaid Services (CMS) to retrieve a list of genera physicians and hospitals to use for a dahsboard for analysis of payments and patient reviews
  
     
 - ### Data Analysis
-  * Census Data
-  * Goolge Mobility
+  * [Census Data](https://github.com/kymayodeji/texascensus)
+    - using US 2020 Census data to analyze population and demographic data of Texas counties
+  * [Google Mobility](https://github.com/kymayodeji/Mobility)
+    - analyzing Google Mobility data during the 2020 Pandemic Shutdown
     
 - ### Data Engineering
-  * [ETL Financial Pipeline Project] (https://github.com/kymayodeji/financialpipeline):
+  * [ETL Financial Pipeline Project](https://github.com/kymayodeji/financialpipeline):
   * creating an end to end Financial pipeline of multiple online sources using Python, Web Scraping, APIs and SQL to transform and load into a SQL database
  
     
