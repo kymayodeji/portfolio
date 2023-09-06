@@ -29,6 +29,6 @@ I usually program in Python and SQL for my projects using Jupyter Notebooks. May
  
     
 - ### Data Science
-  * Thyroid nodules detection
-  * 
+  * Austrailian Weather Prediction
+  * SpaceX Falcon 9 Mission success
 
