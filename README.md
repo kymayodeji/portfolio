@@ -29,6 +29,7 @@ I usually program in Python and SQL for my projects using Jupyter Notebooks. May
  
     
 - ### Data Science
-  * Austrailian Weather Prediction
-  * SpaceX Falcon 9 Mission success
+  
+  * [SpaceX Falcon 9 Mission success](https://github.com/kymayodeji/SpaceXClassification): (in progress)
+  * Austrailian Weather Prediction (in progress)
 
