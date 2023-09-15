@@ -33,3 +33,8 @@ I usually program in Python and SQL for my projects using Jupyter Notebooks. May
   * [SpaceX Falcon 9 Mission success](https://github.com/kymayodeji/SpaceXClassification): (in progress)
   * Austrailian Weather Prediction (in progress)
 
+    
+- ### Machine Learning Engineer
+  
+  * Machine Learning Pipeline using Tensor Flow Transform (in progress)
+  
