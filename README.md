@@ -30,7 +30,8 @@ I usually program in Python and SQL for my projects using Jupyter Notebooks. May
     
 - ### Data Science
   
-  * [SpaceX Falcon 9 Mission success](https://github.com/kymayodeji/SpaceXClassification): (in progress)
+  * [Breast Cancer classification models comparision] (https://github.com/kymayodeji/cancer_classification/tree/main): fine turned hyperparameters of four different classification models to determine an optimal prediction model
+  *  [SpaceX Falcon 9 Mission success](https://github.com/kymayodeji/SpaceXClassification): (in progress)
   * Austrailian Weather Prediction (in progress)
 
     
