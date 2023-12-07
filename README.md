@@ -12,6 +12,14 @@ I am slowly but surely moving on my various Data Cleaning, Analysis, Engineering
 I usually program in Python and SQL for my projects using Jupyter Notebooks. Maybe if I have time, I will convert a few projects into R and Java.
 
 ## Categories
+
+- ### Data Science / Machine Learning
+
+  * [Breast Cancer classification models comparison](https://github.com/kymayodeji/cancer_classification/tree/main): fine turned hyperparameters of four different classification models to determine an optimal prediction model
+  * [Clustering Food Groups by Nutritional Similarities](https://github.com/kymayodeji/nutrition_clustering): used various fine tuned clustering models to determine if USDAA Food groupings is optimal
+  *  [SpaceX Falcon 9 Mission success](https://github.com/kymayodeji/SpaceXClassification): (in progress)
+  * Austrailian Weather Prediction (in progress)
+
 - ### Data Cleaning
   * [Open Payments Data](https://github.com/kymayodeji/DEProjects)
     - used General Payment data from the Centers for Medicare & Medicaid Services (CMS) to retrieve a list of genera physicians and hospitals to use for a dahsboard for analysis of payments and patient reviews
@@ -28,11 +36,6 @@ I usually program in Python and SQL for my projects using Jupyter Notebooks. May
   * creating an end to end Financial pipeline of multiple online sources using Python, Web Scraping, APIs and SQL to transform and load into a SQL database
  
     
-- ### Data Science
-  
-  * [Breast Cancer classification models comparision](https://github.com/kymayodeji/cancer_classification/tree/main): fine turned hyperparameters of four different classification models to determine an optimal prediction model
-  *  [SpaceX Falcon 9 Mission success](https://github.com/kymayodeji/SpaceXClassification): (in progress)
-  * Austrailian Weather Prediction (in progress)
 
     
 - ### Machine Learning Engineer
