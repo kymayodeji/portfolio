@@ -17,8 +17,9 @@ I usually program in Python and SQL for my projects using Jupyter Notebooks. May
 
   * [Breast Cancer classification models comparison](https://github.com/kymayodeji/cancer_classification/tree/main): fine turned hyperparameters of four different classification models to determine an optimal prediction model
   * [Clustering Food Groups by Nutritional Similarities](https://github.com/kymayodeji/nutrition_clustering): used various fine tuned clustering models to determine if USDAA Food groupings is optimal
-  *  [SpaceX Falcon 9 Mission success](https://github.com/kymayodeji/SpaceXClassification): (in progress)
-  * Austrailian Weather Prediction (in progress)
+  * [Fashion MNIST Neural Network Supervised Learning Classification](https://github.com/kymayodeji/ibm_ml_course/blob/main/course5_DeepLearning/fashion.ipynb): first attempt at a Deep Learning Neural Network hypertuned model using the Fashion MNIST dataset
+  * [SpaceX Falcon 9 Mission success](https://github.com/kymayodeji/SpaceXClassification): (in progress)
+  * Recommender model design and deployment: (in progress)
 
 - ### Data Cleaning
   * [Open Payments Data](https://github.com/kymayodeji/DEProjects)
