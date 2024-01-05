@@ -1,7 +1,7 @@
-# Data Professional Portfolio
+# Data  Portfolio
 # - by Kymberly Ayodeji
 
-I am slowly but surely moving on my various Data Cleaning, Analysis, Engineering and Science projects to one central location. Enjoy.
+I am slowly but surely moving on my various Machine Learning, Data Science, Data Cleaning, Analysis, Engineering and Science projects to one central location. Enjoy.
 
 ## Connect with me
 - LinkedIn: [https://www.linkedin.com/in/kymberlyayodeji](https://www.linkedin.com/in/kymberlyayodeji)
@@ -9,7 +9,7 @@ I am slowly but surely moving on my various Data Cleaning, Analysis, Engineering
 - Github: [https://kymayodeji.github.io/portfolio](https://kymayodeji.github.io/portfolio/)
 
 ## Tech Stack
-I usually program in Python and SQL for my projects using Jupyter Notebooks. Maybe if I have time, I will convert a few projects into R and Java.
+I usually program in Python and SQL for my projects using Jupyter Notebooks. Maybe if I have time, I will convert a few projects into R and Java. My cloud platform of choice varies as I have experience with AWS, GCP and Azure.
 
 ## Categories
 
