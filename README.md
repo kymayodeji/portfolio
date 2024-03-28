@@ -1,6 +1,6 @@
 # Data  Portfolio
 # - by Kymberly Ayodeji
-Resume [https://github.com/kymayodeji/portfolio/blob/main/Data%20Scientist%20Resume%20Kymberly%20Ayodeji%20%20(5)%20(1).pdf](pdf version)
+Resume ([pdf version](https://github.com/kymayodeji/portfolio/blob/main/Data%20Scientist%20Resume%20Kymberly%20Ayodeji%20%20(5)%20(1).pdf))
 I am slowly but surely moving on my various Machine Learning, Data Science, Data Cleaning, Analysis, Engineering and Science projects to one central location. Enjoy.
 
 ## Connect with me
